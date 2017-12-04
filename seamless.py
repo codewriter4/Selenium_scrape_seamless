@@ -15,7 +15,7 @@ pw=test.pw
 
 fname=('testfn')
 lname=('testln')
-email=(fname+'.'+lname+'@bch.org')
+email=(fname+'.'+lname+'@blank.org')
 testclinic='//*[@id="div_id_username"]/div/div/a[4]'
 
 
